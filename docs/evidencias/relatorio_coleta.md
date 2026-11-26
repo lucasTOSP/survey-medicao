@@ -86,5 +86,4 @@ Respostas encerradas na triagem não chegam à pergunta P7.
   - [`2026-11-13_whatsapp-celular_lucas.png`](capturas/2026-11-13_whatsapp-celular_lucas.png)
   - [`2026-11-13_whatsapp-web_lucas.png`](capturas/2026-11-13_whatsapp-web_lucas.png)
 - [ ] Painel de respostas do Google Forms aberto ao vivo na apresentação, mostrando só a contagem e os gráficos, sem a lista de e-mails.
-- [ ] Comprovante de envio do protocolo no Canvas (opcional, reforça a data do commit).
 
